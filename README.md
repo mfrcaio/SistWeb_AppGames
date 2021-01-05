@@ -16,6 +16,6 @@ ReactJS
 Apex Charts
 
 Implantação em produção:
-Back end: Heroku
-Front end web: Netlify
+Back end: Heroku; 
+Front end web: Netlify; 
 Banco de dados: Postgresql
